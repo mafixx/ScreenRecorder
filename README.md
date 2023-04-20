@@ -3,5 +3,5 @@
 > Segue abaixo o modelo projetado:
 
 <p align="center">
-<img width="132" height="360" src="https://compasso.ninja/interno/images/CompassoUOL_Positivo_2021.png">
+<img width="132" height="360" src="./img/scrrec.png">
 </p>
